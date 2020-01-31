@@ -3,3 +3,4 @@ function Cat(){
 	this.age = 4,
 	this.color = black
 }
+module.exports = Cat;
