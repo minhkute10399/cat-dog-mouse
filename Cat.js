@@ -1,6 +1,5 @@
-function Cat(){
-	this.gender = female,
-	this.age = 4,
-	this.color = black
+function Cat(name, age){
+	this.name = name,
+	this.age = age
 }
 module.exports = Cat;
